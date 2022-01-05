@@ -264,6 +264,7 @@ drawer
   transition: -webkit-transform .5s ease 0s;
   transition: transform .5s ease 0s;
   transition: transform .5s ease 0s, -webkit-transform .5s ease 0s;
+  cursor: pointer;
 }
 
 @media (max-width: 767px) {

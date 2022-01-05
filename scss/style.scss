@@ -256,6 +256,7 @@ drawer
     z-index: 300;
     display: none;
     transition: transform .5s ease 0s;
+    cursor: pointer;
 
     @include mq("sp") {
         display: block;
